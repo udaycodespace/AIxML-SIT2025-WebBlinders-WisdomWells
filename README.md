@@ -57,8 +57,7 @@ Practice low-level pandas DataFrame manipulations without using built-in shortcu
 ## 🏗️ Coming Soon
 
 - **Final Project**:  
-  An **Unsupervised Anime Recommendation System** using clustering and fuzzy matching techniques.  
-  Stay tuned for the submission and implementation details!
+  Will work on the EDA part of the project using a live dataset. Might also integrate an API, front end, and back end—depending on time!
 
 ---
 
