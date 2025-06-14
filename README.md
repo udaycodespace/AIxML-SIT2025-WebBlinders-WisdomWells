@@ -66,8 +66,9 @@ Perform an in-depth Exploratory Data Analysis (EDA) on mobile device usage datas
 - OS and brand usage patterns
 - App usage, battery, and screen time analysis
 
-🔗 [View on GitHub](https://github.com/udaycodespace/AIxML-SIT2025-WebBlinders-WisdomWells/blob/main/FINAL_PROJECT_EDA_Mobile_Device_Usage.ipynb)  
-🔗 [View on Colab](https://colab.research.google.com/drive/1Cr1HZaV3PjknaBhgc86s7oQ70ABQpPr6?usp=sharing)
+🔗 [View on GitHub](https://github.com/udaycodespace/AIxML-SIT2025-WebBlinders-WisdomWells/blob/main/EDAxPROJECT.ipynb)  
+🔗 [View on Colab](https://colab.research.google.com/drive/1DgGaLQ8yPfoNV7bZ9HpGZrj58E1dQXB-?usp=sharing)
+🔗 [View Original Dataset on Kaggle](https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset)
 
 ---
 
