@@ -3,7 +3,7 @@
 Welcome to my repository for the **AIxML-SIT2025 Remote Internship**.  
 Here, I have documented and submitted all my assignments completed as part of the internship.
 
-> ⚙️ This repository will later be updated to include my **final project** submission.
+> ⚙️ This repository is now updated to include my **final project** submission.
 
 ---
 
@@ -54,10 +54,20 @@ Practice low-level pandas DataFrame manipulations without using built-in shortcu
 
 ---
 
-## 🏗️ Coming Soon
+### ✅ FINAL PROJECT: EDA × Mobile Device Usage Analysis
+📅 **Date**: 15-06-2025  
+📌 **Objective**:  
+Perform an in-depth Exploratory Data Analysis (EDA) on mobile device usage dataset. Identify user behavior, brand/OS trends, and draw statistical insights.
 
-- **Final Project**:  
-  Will work on the EDA part of the project using a live dataset. Might also integrate an API, front end, and back end—depending on time!
+🔧 **Highlights**:
+- Data preprocessing and cleaning
+- Visualizations with seaborn and matplotlib
+- User segmentation by behavior class
+- OS and brand usage patterns
+- App usage, battery, and screen time analysis
+
+🔗 [View on GitHub](https://github.com/udaycodespace/AIxML-SIT2025-WebBlinders-WisdomWells/blob/main/FINAL_PROJECT_EDA_Mobile_Device_Usage.ipynb)  
+🔗 [View on Colab](https://colab.research.google.com/drive/1Cr1HZaV3PjknaBhgc86s7oQ70ABQpPr6?usp=sharing)
 
 ---
 
@@ -91,7 +101,8 @@ Throughout the internship, I have gained practical experience in:
 - ✅ Working with Dictionaries, Tuples, and Lists  
 - ✅ Basic Data Science with pandas  
 - ✅ Exploratory Data Analysis (EDA)  
-- 🔜 Machine Learning (coming up with the final project)
+- ✅ Data Visualization with matplotlib & seaborn  
+- 🔜 Machine Learning (coming up next)
 
 ---
 
@@ -105,6 +116,6 @@ Throughout the internship, I have gained practical experience in:
 
 ## 🏁 Summary
 
-This repository represents my learning journey through structured assignments and practical tasks that enhance foundational skills in Python, data handling, and logic building. It is a part of the AIxML-SIT2025 internship program and will be updated with more advanced modules and the final capstone project.
+This repository represents my learning journey through structured assignments and practical tasks that enhance foundational skills in Python, data handling, and logic building. It is a part of the AIxML-SIT2025 internship program and includes my final project based on real-world data.
 
 ⭐ Feel free to explore, fork, and suggest improvements!
